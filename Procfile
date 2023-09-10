@@ -1,1 +1,0 @@
-worker: bash gang.py
